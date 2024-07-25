@@ -4,6 +4,7 @@ Welcome to the Responsive Solar System Showcase!
 I developed this site using basic HTML and CSS to create an interactive and educational experience for exploring the planets of our solar system. It's a place where you can learn about the fascinating characteristics of each planet and enjoy beautiful visuals.
 
 Technologies Used:
+
 HTML: For structuring the content and ensuring a semantic layout.
 
 CSS: For styling the site and implementing responsive design through media queries to make it visually appealing on all devices.
