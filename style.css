@@ -1,0 +1,260 @@
+body{
+
+    background-color: #000000;
+
+}
+
+p{
+
+    color: white;
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    
+}
+ 
+.titlecss{
+    
+    color: #4E4FEB;
+
+}
+
+.about-h1-css{
+
+    color: #068FFF;
+
+}
+
+.namecss{
+
+    color: #068FFF;
+
+}
+
+h2{
+
+    color: white;
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    
+}
+
+
+h1{
+
+    color: white;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    
+}
+
+.logo{
+
+    height: 100px;
+    float: left;
+    margin-left: 40%;
+    
+}
+
+header{
+
+    display: inline-block;
+    width: 100%;
+ 
+}
+
+.title{
+
+    margin-top: 30.5px;
+    float: left;
+    font-weight:bolder;
+
+}
+
+.about{
+
+    width: 97%;
+    border: solid #4E4FEB;
+    margin-left: 20px;
+    margin-right: -20px;
+    
+}
+
+.ss{
+
+    margin-left: 25%;
+    width: 50%
+ 
+}
+
+.about p {
+
+    text-align: center;
+    font-weight: 900;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+p {
+
+    margin-top: 43.5px;
+    padding-left:10px ;
+
+}
+
+h2{
+
+    padding-left: 10px;
+
+}
+
+.mercury , .earth , .jupiter , .uranus{
+   
+    width: 45%;
+    border: 2px solid whitesmoke;
+    border-radius: 3%;
+    margin-left:30px;
+    margin-top: 30px;
+    float: left;
+    text-align: justify;
+    padding-right: 15px;
+    
+}
+
+.m , .e , .j , .u{
+
+    height: 200px ;
+    width: 200px;
+    float: left;
+    
+    margin-bottom: 40px;
+    
+}
+
+.venus , .mars , .saturn , .neptune{
+   
+    width: 45%;
+    border: 2px solid whitesmoke;
+    border-radius: 3%;
+    margin-left:30px;
+    margin-top: 30px;
+    float: right;
+    text-align: justify;
+    padding-right: 15px;
+    
+}
+
+.v , .ma , .s , .n{
+
+    height: 200px ;
+    width: 200px;
+    float: left;
+    margin-bottom: 40px;
+    
+}
+ .footer{
+
+    height: 5%;
+    width: 100%;
+    clear: both;
+    padding-top: 20px;
+
+}
+ .footer h3{
+
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    color: white;
+    text-align: center;
+   
+}
+
+@media (max-width : 896px)
+{
+
+.logo{
+
+    height: 100px;
+    float: left;
+    padding: 2%;
+    margin: 0%;
+    position: relative;
+    padding-top: 1px;
+
+}
+
+.title{
+
+    float: left;
+    
+    position:relative;
+
+}
+
+.about{
+
+    width: 80%;
+    border: solid #4E4FEB;
+    margin-left: 30px;
+    
+    
+}
+
+.mercury , .earth , .jupiter , .uranus{
+   
+    width: 80%;
+    border: 2px solid whitesmoke;
+    border-radius: 3%;
+    margin-left:30px;
+    margin-top: 30px;
+    float: left;
+    text-align: justify;
+    padding-right: 15px;
+    display: block;
+    
+}
+
+.m , .e , .j , .u{
+
+    height: 200px ;
+    width: 200px;
+    float: left;
+
+    margin-bottom: 40px;
+    
+}
+
+.venus , .mars , .saturn , .neptune{
+   
+    width: 80%;
+    border: 2px solid whitesmoke;
+    border-radius: 3%;
+    margin-left:30px;
+    margin-top: 30px;
+    float: left;
+    text-align: justify;
+    padding-right: 15px;
+    display: block;
+    
+}
+
+.v , .ma , .s , .n{
+
+    height: 200px ;
+    width: 200px;
+    float: left;
+    margin-bottom: 40px;
+    
+}
+
+}
+
+
